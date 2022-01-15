@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @turingstackHR, 
-- 👀 Generally I review tasks as a part of hiring process
+- 👀 Generally I review tasks as a part of hiring process and do maintain repository. 
 
 
 <!---
